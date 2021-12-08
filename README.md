@@ -1,4 +1,7 @@
 # Basic-Calculator
+<a href="https://github.com/vishwasracharya/Basic-Calculator/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/vishwasracharya/Basic-Calculator?color=blue"></a>
+<a href="https://github.com/vishwasracharya/Basic-Calculator/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/vishwasracharya/Basic-Calculator?color=orange"></a>
+
 A small project which I made during the learning of Web Development.
 Link to website 👉 <a href="https://vishwasracharya.github.io/Basic-Chatbot">https://vishwasracharya.github.io/Basic-Calculator</a>
 
